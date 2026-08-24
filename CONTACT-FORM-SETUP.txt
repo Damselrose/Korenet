@@ -1,0 +1,23 @@
+KORENET V3 — CONTACT FORM SETUP
+
+The contact form has been changed from the previous static/demo form to an online form submission using FormSubmit.
+
+Destination:
+admin@korenets.com
+
+IMPORTANT — ONE-TIME ACTIVATION:
+1. Upload the website to https://korenets.com
+2. Open the Contact page.
+3. Submit the form once using a real email address.
+4. FormSubmit will send a confirmation/activation email to admin@korenets.com.
+5. Open that email and click the activation link.
+6. After activation, future form submissions will be forwarded to admin@korenets.com.
+
+The website does NOT store form submissions itself. FormSubmit forwards them to the configured email address.
+
+If you do not want a third-party form service, the next upgrade would be an Azure/Microsoft backend or your own server-side email endpoint.
+
+Correct company details:
+Company: KORENET
+Email: admin@korenets.com
+Phone: +44 7341 911 512
